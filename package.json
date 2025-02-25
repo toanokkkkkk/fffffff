@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "npmlog": "^7.0.1",
+    "ws3-fca": "^1.0.47"
+  }
+}
